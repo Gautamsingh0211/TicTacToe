@@ -155,11 +155,6 @@ The game checks these combinations after every move to determine whether a playe
 
 <img width="1157" height="857" alt="image" src="https://github.com/user-attachments/assets/0e2406dd-a75d-44ed-a577-4f79a205b2e3" />
 
-
-```markdown
-![Tic Tac Toe Preview](./screenshot.png)
-```
-
 ## 🔮 Future Improvements
 
 Some possible improvements:
